@@ -4,6 +4,10 @@
 
 A bachelor-thesis preparation project exploring U-Net segmentation of cell nuclei in MoNuSeg histopathology images. The notebook covers annotation processing, image preparation, model training, visual inspection of predictions and an exploratory approach to cell counting.
 
+<p align="center">
+  <img src="./assets/unet-nuclei-segmentation.gif" alt="Animated project explainer: MoNuSeg images, patch extraction, U-Net prediction, nuclei masks, and exploratory counting" width="100%" />
+</p>
+
 ## Explore the project
 
 - [Notebook: preparation, training and visual results](Pretask_for_Bachelor_Thesis.ipynb)
